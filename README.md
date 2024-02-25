@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Oh-0-honey
-- 👀 I’m interested in Mobile Application📱
-- 🖥 I'm working at Hanwha System
+- 👀 I'm working as a sw developer📱
 - 🌱 I’m currently learning Android with Kotlin
 
 
